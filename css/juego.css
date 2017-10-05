@@ -16,6 +16,8 @@ ul {
 li {
   padding: 5px 0;
 }
+
+
 li::before {
   content: "• ";
   color: #EC6778;
